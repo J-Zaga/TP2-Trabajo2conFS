@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laura",
+    "edad": 30,
+    "profesion": "Ingeniera",
+    "ciudad": "Buenos Aires"
+  },
+  {
+    "id": 2,
+    "nombre": "Carlos",
+    "edad": 34,
+    "profesion": "Médico",
+    "ciudad": "Barcelona"
+  },
+  {
+    "id": 3,
+    "nombre": "Ana",
+    "edad": 25,
+    "profesion": "Estudiante",
+    "ciudad": "Paris"
+  },
+  {
+    "id": 4,
+    "nombre": "Jorge",
+    "edad": 40,
+    "profesion": "Arquitecto",
+    "ciudad": "Cordoba"
+  },
+  {
+    "id": 5,
+    "nombre": "Juan",
+    "edad": 29,
+    "profesion": "Desarrollador",
+    "ciudad": "Caracas"
+  },
+  {
+    "id": 6,
+    "nombre": "Lucía",
+    "edad": 35,
+    "profesion": "Abogada",
+    "ciudad": "Londres"
+  },
+  {
+    "id": 7,
+    "nombre": "Diego",
+    "edad": 45,
+    "profesion": "Chef",
+    "ciudad": "Murcia"
+  },
+  {
+    "id": 8,
+    "nombre": "Isabel",
+    "edad": 27,
+    "profesion": "Diseñadora",
+    "ciudad": "Moscu"
+  }
+]
