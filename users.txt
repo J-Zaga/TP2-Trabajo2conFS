@@ -2,7 +2,7 @@
   {
     "id": 1,
     "nombre": "Laura",
-    "edad": 30,
+    "edad": 28,
     "profesion": "Ingeniera",
     "ciudad": "Buenos Aires"
   },
